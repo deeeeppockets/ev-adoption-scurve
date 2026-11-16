@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+~$*
+
+# local working folders, not part of the project
+Claude outputs/
+_commits/
